@@ -41,7 +41,7 @@ Though simple, they are a part of my growth as a developer and reflect my curios
 ## 🧰 Technologies Used
 
 - HTML5
-- JavaScript (Vanilla)
+- JavaScript
 - LocalStorage (in RPS game)
 - No external libraries — just plain JS!
 
